@@ -1,0 +1,27 @@
+body{
+    background-color: #EEF3F7;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.formulario{
+    background-color: white;
+}
+.titulo{
+    padding: 20px;
+    background-color: #0999E4;
+    color: white;
+    text-align: center;
+    margin: 40px 0px 0px 0px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.linea{
+    height: 10px;
+    background-color: #0670a9;
+    margin-bottom: 50px;
+}
+.parrafo{
+    font-size: 25px;
+    margin: 35px 0px
+}

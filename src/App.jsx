@@ -6,6 +6,8 @@ function App() {
 
   return (
     <>
+    <h1 className='titulo'>Buscador de clima</h1>
+   <p className='linea'></p>
     <FormularioClima/>
     </>
   )
